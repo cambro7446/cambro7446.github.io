@@ -1,0 +1,18 @@
+/* Cameron Brown September 19*/
+header {background-color: darkslategray;}
+footer {background-color: darkslategray;}
+p {font-size: 20px;}
+ul {font-size: 20px;}
+li {font-size: 20px;}
+a:link {
+    color:teal
+}
+a:visited {
+   color: dimgray; 
+}
+a:hover {
+    color: darkorange;
+}
+a:active {
+    color:crimson
+}
