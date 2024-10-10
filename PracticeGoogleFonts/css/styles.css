@@ -1,0 +1,14 @@
+/* Practice CustomFonts Style Sheet */
+
+.websafe{
+    font-family: "Roboto Mono", monospace, "Oswald","Times New Roman", serif;
+}
+.google {
+    font-family: "Roboto Mono", monospace,"Times New Roman", serif;
+}
+body {
+    font-family: "Roboto Mono", monospace, "Oswald","Times New Roman", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }
