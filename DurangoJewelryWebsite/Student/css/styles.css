@@ -1,0 +1,57 @@
+
+/*Jonathan Pope & Cameron Brown
+October 24, 2024
+*/
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Italic.ttf') format('tff');
+    font-weight: normal;
+    /*font-size: 2em;*/
+}
+
+html{
+    background-image: url('../image/jewelry.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+} 
+#outerwrapper { 
+    border-radius: 15%;
+    background: rgba(243,205,170, 0.4);
+    width: 70%;
+    align-content: center;
+}
+img[alt="smoky quartz pendant"]{
+    float: left;
+    border-radius: 100%;
+}
+.addrightmargin{
+    margin-right: 10%;
+}
+nav ul{
+    list-style: none;
+    font-size: 1.5em;
+    float: none;
+}
+h1{
+	 font-size: 4em;
+	 font-family: "Pacifico", sans-serif;
+}
+h2{
+	font-family: "Roboto";
+}
+main{
+    background: linear-gradient(to right, #FFFFFF, #F0F9E6);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 2em;
+    font-size: 1.5em;
+    font-family: sans-serif, "Papyrus";
+}
+footer{
+    font-size: 1em;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+
